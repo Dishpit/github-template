@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: FooBar Software
+    url: https://example.com
+    about: Please ask and answer questions on our public forum.
+  - name: Community Discord
+    url: https://discord.gg/X83hEjbDZb
+    about: Feel free to chat or also find support in our Discord community.
